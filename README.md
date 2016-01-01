@@ -1,2 +1,2 @@
 # ExampleGUI
-# :F
+# Feel free to use!
